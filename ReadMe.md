@@ -13,3 +13,4 @@ Com conteúdo de excelente qualidade, você vai sair do zero para estabelecer um
 - [Inscreva-se no bootcamp](https://www.dio.me/bootcamp/microsoft-azure-essentials)
 - [Material para estudo complementar](https://learn.microsoft.com/pt-br/training/courses/az-900t00)
 - [Certificação AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+- [Questões da prova comentadas](https://www.examtopics.com/exams/microsoft/az-900/view/?trk=article-ssr-frontend-pulse_little-text-block)
