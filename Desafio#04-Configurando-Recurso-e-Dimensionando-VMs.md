@@ -51,23 +51,3 @@ Em 'Marcas', classifique recursos e exiba o faturamento consolidado aplicando a 
 Agora chegou a hora de revisar toda a configuração feita até aqui, verificar o cursto mensal e finalmente criar a sua VM.
 
 ![image](https://github.com/user-attachments/assets/536060cf-2268-467a-b10b-6dcfc7eafa87)
-
-
-## Configuração de Área de Trabalho Virtual
-
-### 1º passo
-Vá na barra de pesquisa no topo da página, procure por 'Área de trabalho virtual' e depois crie um 'Pool de hosts'.
-
-![image](https://github.com/user-attachments/assets/57a4069a-aaca-47b8-b09c-c5774cef136e)
-![image](https://github.com/user-attachments/assets/389d65f1-a527-4144-b2ba-af28c013b0ff)
-
-
-### 2º passo
-Faça as configurações básicas necessárias para criar a sua área de trabalho virtual.
-
-![image](https://github.com/user-attachments/assets/45d7e7db-11cd-4718-b80b-85d4f30bc780)
-
-### 3º passo
-Revise cada detalhe e, se estiver tudo de acordo, clique em 'Criar'. 
-
-![image](https://github.com/user-attachments/assets/38cd27f5-3cbb-4cde-9919-6c39c03a0494)
